@@ -1,4 +1,4 @@
-package com.osb.Classes;
+package com.osb.Classe
 
 import java.util.Objects;
 
