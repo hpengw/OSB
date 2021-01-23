@@ -24,7 +24,7 @@ public class Main {
         println("------------------------------------------------------- # " + d + " # ------------------------------------------------------- ");
 
         println("//The OSB programme includes JoeInfo, multiple MathUtils and Tools." +
-                "\n//Version: 1.2" +
+                "\n//Version: 0.2" +
                 "\n//Enter '0' to exit.");
 
         println("//1 - JoeInfo");
