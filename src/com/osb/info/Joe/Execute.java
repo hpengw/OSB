@@ -9,6 +9,7 @@ import com.osb.Main;
  *
  * @version 1.5
  * @since 1.0
+ *
  */
 public class Execute {
 
@@ -56,12 +57,12 @@ public class Execute {
         Main.println("------------------------------------------------------------------------------------------------------------------------------------------------- ");
         Main.print("//Enter '1' to rerun the JoeInfo programme, or enter '0' to exit to the OSB main programme: ");
 
-        int returnMain = s.nextInt();
+        int rerun = s.nextInt();
 
         //Identify rerun/exit command
-        if (returnMain == 1) {
+        if (rerun == 1) {
             run();
-        } else if (returnMain == 0) {
+        } else if (rerun == 0) {
             Main.main(null);
         } else {
             Main.errorIvdNum();

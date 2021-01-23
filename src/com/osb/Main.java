@@ -24,7 +24,7 @@ public class Main {
         println("------------------------------------------------------- # " + d + " # ------------------------------------------------------- ");
 
         println("//The OSB programme includes JoeInfo, multiple MathUtils and Tools." +
-                "\n//Version: 1.1" +
+                "\n//Version: 1.2" +
                 "\n//Enter '0' to exit.");
 
         println("//1 - JoeInfo");
@@ -166,6 +166,5 @@ public class Main {
 
     public static void errorIvdNum() {
         println("//Error: invalid number!");
-        System.exit(0);
     }
 }

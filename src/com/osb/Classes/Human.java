@@ -5,15 +5,10 @@ import java.util.Objects;
 public class Human {
 
     private String nationality;
-
     private String name;
-
     private String sex;
-
     private int age;
-
     private double height;
-
     private double weight;
 
     public Human() {
