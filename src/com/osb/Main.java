@@ -11,8 +11,7 @@ import com.osb.Tools.*;
 /**
  * The main execute class for the OSB programme.
  *
- * @since 1.0
- * @version 1.2
+ * @version 0.2
  *
  */
 public class Main {

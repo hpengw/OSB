@@ -8,7 +8,6 @@ import com.osb.Main;
  * A programme that adds up numbers from '1 ~ n'.
  *
  * @version 1.2
- * @since 1.0
  */
 public class AddUp {
 

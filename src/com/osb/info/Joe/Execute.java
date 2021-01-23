@@ -8,7 +8,6 @@ import com.osb.Main;
  * Main/executable class of Joe's information programme.
  *
  * @version 1.5
- * @since 1.0
  *
  */
 public class Execute {

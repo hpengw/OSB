@@ -8,7 +8,6 @@ import com.osb.Main;
  * A programme that identifies math marks and output the score out of 100 and final grade.
  *
  * @version 1.2
- * @since 1.0
  */
 public class GradeIdentifier {
 

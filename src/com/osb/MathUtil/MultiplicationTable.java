@@ -6,7 +6,6 @@ import com.osb.Main;
  * Outputs multiplication table (n * n).
  *
  * @version 1.1
- * @since 1.0
  */
 public class MultiplicationTable {
 

@@ -6,7 +6,6 @@ import com.osb.Main;
  * Output all prime numbers between '1 ~ n'.
  *
  * @version 1.1
- * @since 1.0
  */
 public class PrimeNumber {
 
