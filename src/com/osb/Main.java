@@ -1,11 +1,13 @@
 package com.osb;
 
+import com.osb.MathUtil.AddUp;
+import com.osb.MathUtil.MultiplicationTable;
+import com.osb.MathUtil.PrimeNumber;
+import com.osb.Tools.GradeIdentifier;
+import com.osb.info.Joe.Execute;
+
 import java.util.Date;
 import java.util.Scanner;
-
-import com.osb.info.Joe.Execute;
-import com.osb.MathUtil.*;
-import com.osb.Tools.*;
 
 
 /**
@@ -23,7 +25,7 @@ public class Main {
 
         println("------------------------------------------------------- # " + d + " # ------------------------------------------------------- ");
 
-        println("//The OSB programme includes JoeInfo, multiple MathUtils and Tools." +
+        println("[The OSB programme includes JoeInfo, multiple MathUtils and Tools.]" +
                 "\n//Version: 0.2" +
                 "\n//Enter '0' to exit.");
 
@@ -61,6 +63,7 @@ public class Main {
                 break;
             default:
                 errorIvdNum();
+                System.exit(0);
         }
 
         Main.println("------------------------------------------------------------------------------------------------------------------------------------------------- ");

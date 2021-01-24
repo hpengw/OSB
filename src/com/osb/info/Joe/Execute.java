@@ -1,21 +1,20 @@
 package com.osb.info.Joe;
 
-import java.util.Scanner;
-
 import com.osb.Main;
+
+import java.util.Scanner;
 
 /**
  * Main/executable class of Joe's information programme.
  *
- * @version 1.5
- *
+ * @version 1.6
  */
 public class Execute {
 
     public static void run() {
 
         //Programme description
-        Main.println("//This programme can show you information about Joe, enter a number displayed below to continue with corresponding information. " +
+        Main.println("[This programme can show you information about Joe, enter a number displayed below to continue with corresponding information.]" +
                 "\n//Enter '0' to exit to the OSB main programme.");
         Main.println("//1 - Joe's personal info.");
         Main.println("//2 - Joe's girlfriend.");
@@ -50,6 +49,7 @@ public class Execute {
                 break;
             default:
                 Main.errorIvdNum();
+                System.exit(0);
         }
 
         //Rerun / Return to Main
@@ -65,6 +65,7 @@ public class Execute {
             Main.main(null);
         } else {
             Main.errorIvdNum();
+            System.exit(0);
         }
     }
 }
