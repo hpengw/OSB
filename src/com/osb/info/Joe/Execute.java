@@ -49,7 +49,6 @@ public class Execute {
                 break;
             default:
                 Main.errorIvdNum();
-                System.exit(0);
         }
 
         //Rerun / Return to Main
@@ -65,7 +64,6 @@ public class Execute {
             Main.main(null);
         } else {
             Main.errorIvdNum();
-            System.exit(0);
         }
     }
 }

@@ -22,10 +22,12 @@ public class AddUp {
 
         if (!(n > 0)) {
             Main.println("//Error: The number should be greater 0!");
-            System.exit(0);
+            Main.rerun();
         }
 
         Main.println("The result is " + addUp(n) + '.');
+
+        Main.rerun();
     }
 
     public static int addUp(int n) {

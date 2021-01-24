@@ -23,7 +23,7 @@ public class GradeIdentifier {
 
         if (s45 < 0 || s45 > 45) { //Identify data range (Legal/Illegal)
             Main.println("//Error: Please enter a number range from 0 - 45.");
-            System.exit(0);
+            Main.rerun();
         } else if (s100 >= 90) {
             Main.println("//Your score out of 100 is " + s100 + '.');
             Main.println("//Grade: A");
@@ -40,5 +40,8 @@ public class GradeIdentifier {
             Main.println("//Your score out of 100 is " + s100 + '.');
             Main.println("//Grade: E");
         }
+
+        Main.rerun();
+
     }
 }

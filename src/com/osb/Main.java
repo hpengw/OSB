@@ -9,12 +9,11 @@ import com.osb.info.Joe.Execute;
 import java.util.Date;
 import java.util.Scanner;
 
-
 /**
  * The main execute class for the OSB programme.
  *
  * Pre-Release
- * @version 0.2
+ * @version 0.3
  *
  */
 public class Main {
@@ -26,7 +25,7 @@ public class Main {
         println("------------------------------------------------------- # " + d + " # ------------------------------------------------------- ");
 
         println("[The OSB programme includes JoeInfo, multiple MathUtils and Tools.]" +
-                "\n//Version: 0.2" +
+                "\n//Version: 0.3" +
                 "\n//Enter '0' to exit.");
 
         println("//1 - JoeInfo");
@@ -63,21 +62,6 @@ public class Main {
                 break;
             default:
                 errorIvdNum();
-                System.exit(0);
-        }
-
-        Main.println("------------------------------------------------------------------------------------------------------------------------------------------------- ");
-        Main.print("//Enter '1' to rerun the OSB programme, or enter '0' to exit: ");
-
-        int rerun = s.nextInt();
-
-        //Identify rerun/exit command
-        if (rerun == 1) {
-            main(null);
-        } else if (rerun == 0) {
-            exit();
-        } else {
-            errorIvdNum();
         }
 
     }
@@ -167,7 +151,27 @@ public class Main {
         System.exit(0);
     }
 
+    public static void rerun() {
+
+        Scanner s = new Scanner(System.in);
+
+        Main.println("------------------------------------------------------------------------------------------------------------------------------------------------- ");
+        Main.print("//Enter '1' to rerun the OSB programme, or enter '0' to exit: ");
+
+        int rerun = s.nextInt();
+
+        //Identify rerun/exit command
+        if (rerun == 1) {
+            main(null);
+        } else if (rerun == 0) {
+            exit();
+        } else {
+            errorIvdNum();
+        }
+    }
+
     public static void errorIvdNum() {
         println("//Error: invalid number!");
+        rerun();
     }
 }

@@ -37,6 +37,7 @@ public class PrimeNumber {
         }
 
         Main.println();
+        Main.rerun();
 
     }
 }

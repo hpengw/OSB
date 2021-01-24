@@ -23,7 +23,7 @@ public class MultiplicationTable {
 
         if (!(n > 0)) {
             Main.println("//Error: The number should be greater than 0!");
-            System.exit(0);
+            Main.rerun();
         }
 
         for (int i = 1; i <= n; i++) {
@@ -35,6 +35,10 @@ public class MultiplicationTable {
             }
 
             Main.println();
+
         }
+
+        Main.rerun();
+
     }
 }
