@@ -18,7 +18,7 @@ public class Execute {
                 "\n//Enter '0' to exit to the OSB main programme.");
         Main.println("//1 - Joe's personal info.");
         Main.println("//2 - Joe's girlfriend.");
-        Main.println("//3 - Joe's Phone.");
+        Main.println("//3 - Joe's phone.");
         Main.println("//4 - Joe's waifu.");
 
         Scanner s = new Scanner(System.in);
