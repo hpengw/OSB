@@ -22,7 +22,7 @@ public class Main {
 
         Date d = new Date();
 
-        println("------------------------------------------------------- # " + d + " # ------------------------------------------------------- ");
+        println("---------------- # " + d + " # ----------------");
 
         println("[The OSB programme includes JoeInfo, multiple MathUtils and Tools.]" +
                 "\n//Version: 0.3" +
@@ -155,8 +155,8 @@ public class Main {
 
         Scanner s = new Scanner(System.in);
 
-        Main.println("------------------------------------------------------------------------------------------------------------------------------------------------- ");
-        Main.print("//Enter '1' to rerun the OSB programme, or enter '0' to exit: ");
+        println("-------------------------------------------------------------------");
+        print("//Enter '1' to rerun the OSB programme, or enter '0' to exit: ");
 
         int rerun = s.nextInt();
 
