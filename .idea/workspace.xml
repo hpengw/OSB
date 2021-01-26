@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Main:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 01/25" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/OSB" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Byte.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1n0e00gwIU8WjdxHC1wLxMGMIjE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jar" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.osb.Main" />
+      <module name="Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.osb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Main_jar/Main.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JAR Application.Main.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.Main.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="" />
+      <created>1610531208473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610531208473</updated>
+      <workItem from="1610589341706" duration="30000" />
+      <workItem from="1610589567428" duration="128000" />
+      <workItem from="1610589743829" duration="60000" />
+      <workItem from="1610589810275" duration="92000" />
+      <workItem from="1610592350862" duration="4000" />
+      <workItem from="1610617178807" duration="203000" />
+      <workItem from="1610617403812" duration="7000" />
+      <workItem from="1610693141527" duration="1351000" />
+      <workItem from="1610694522478" duration="1247000" />
+      <workItem from="1610710038872" duration="14000" />
+      <workItem from="1610930234523" duration="2189000" />
+      <workItem from="1610932453946" duration="52000" />
+      <workItem from="1610932522614" duration="879000" />
+      <workItem from="1610933408461" duration="1075000" />
+      <workItem from="1610965619909" duration="761000" />
+      <workItem from="1611017026732" duration="1571000" />
+      <workItem from="1611057147955" duration="911000" />
+      <workItem from="1611190789963" duration="2315000" />
+      <workItem from="1611279544435" duration="6496000" />
+      <workItem from="1611319427108" duration="973000" />
+      <workItem from="1611320409660" duration="249000" />
+      <workItem from="1611358693688" duration="381000" />
+      <workItem from="1611359446876" duration="1952000" />
+      <workItem from="1611363581172" duration="427000" />
+      <workItem from="1611365005499" duration="2475000" />
+      <workItem from="1611448749126" duration="4448000" />
+      <workItem from="1611455121170" duration="2112000" />
+      <workItem from="1611538188706" duration="36000" />
+      <workItem from="1611540942963" duration="694000" />
+      <workItem from="1611543798593" duration="211000" />
+      <workItem from="1611556564400" duration="2750000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update Test">
+      <created>1611320376469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611320376469</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Test Interface">
+      <created>1611358911949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611358911949</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update Test Interface">
+      <created>1611359050635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611359050635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update Sat Jan 23 09:59:36 AEST 2021">
+      <created>1611360055456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611360055456</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update Sat Jan 23 10:26 AEST 2021">
+      <created>1611361592519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611361592519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update ReadMe">
+      <created>1611365249631</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611365249631</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test">
+      <created>1611366214512</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611366214512</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Tool logic improvements">
+      <created>1611450521016</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611450521016</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1">
+      <created>1611455222149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611455222149</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Programme logic improvements">
+      <created>1611456848380</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611456848380</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update 01/25">
+      <created>1611557502889</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611557502889</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update 01/25">
+      <created>1611557970973</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611557970973</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Test" />
+    <MESSAGE value="Update Test Interface" />
+    <MESSAGE value="Update Sat Jan 23 09:59:36 AEST 2021" />
+    <MESSAGE value="Update Sat Jan 23 10:26 AEST 2021" />
+    <MESSAGE value="Update ReadMe" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Tool logic improvements" />
+    <MESSAGE value="Main.jar added" />
+    <MESSAGE value="1" />
+    <MESSAGE value="Programme logic improvements" />
+    <MESSAGE value="Update 01/25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 01/25" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OSB$Main.ic" NAME="Main Coverage Results" MODIFIED="1610933356919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.osb.info.Joe.*</FILTER>
+    </SUITE>
+  </component>
+</project>
