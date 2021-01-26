@@ -12,6 +12,8 @@ import java.util.Scanner;
 /**
  * The main execute class for the OSB programme.
  *
+ * Copyright © OSB & VJ 2021
+ *
  * Pre-Release
  * @version 0.3
  *
