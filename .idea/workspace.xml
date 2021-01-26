@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 01/26" />
+    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 01/26">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/statistic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,8 +77,10 @@
       <recent name="$PROJECT_DIR$/jar" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.osb.Main" />
       <module name="Main" />
       <extension name="coverage">
@@ -78,6 +89,15 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.osb.Main" />
+      <module name="Main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,18 +115,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Main_jar/Main.jar" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JAR Application.Main.jar" />
-    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JAR Application.Main.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +163,7 @@
       <workItem from="1611540942963" duration="694000" />
       <workItem from="1611543798593" duration="211000" />
       <workItem from="1611556564400" duration="2750000" />
-      <workItem from="1611643781675" duration="425000" />
+      <workItem from="1611643781675" duration="1415000" />
     </task>
     <task id="LOCAL-00001" summary="Update Test">
       <created>1611320376469</created>
@@ -259,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611644011308</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update 01/26">
+      <created>1611644224888</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611644224888</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
