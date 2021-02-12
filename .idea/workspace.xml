@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 01/31">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/osb/info/Joe/JoeWaifu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/osb/info/Joe/JoeWaifu.java" afterDir="false" />
-    </list>
+    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,6 +151,8 @@
       <workItem from="1612087070236" duration="941000" />
       <workItem from="1612310024848" duration="703000" />
       <workItem from="1612331986324" duration="46000" />
+      <workItem from="1612332046579" duration="357000" />
+      <workItem from="1613018572219" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="Update Test">
       <created>1611320376469</created>
@@ -288,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612087493168</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Update 02/03">
+      <created>1612332072829</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612332072829</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +329,8 @@
     <MESSAGE value="Update 01/25" />
     <MESSAGE value="Update 01/26" />
     <MESSAGE value="Update 01/31" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 01/31" />
+    <MESSAGE value="Update 02/03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 02/03" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
