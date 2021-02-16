@@ -1,36 +1,36 @@
 package com.tests;
 
+import com.osb.Tools.MyStack;
+
 public class MyStackTest {
 
     public static void main(String[] args) {
 
-        MyStack o1 = new MyStack();
+        MyStack joe = new MyStack("Joe");
 
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
-        o1.push("YiTong");
+        joe.push("Maan");
+        joe.push("Patel");
+        joe.push("YiTong");
+        joe.push("Osama");
+        joe.push("Nancy");
+        joe.push("YiTong");
+        joe.push("YiTong");
+        joe.push("YiTong");
+        joe.push("YiTong");
+        joe.push("YiTong");
+        joe.push("YiTong");
 
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-        o1.pop();
-
-
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
+        joe.pop();
 
     }
 

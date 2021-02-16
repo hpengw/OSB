@@ -9,10 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/13">
-      <change afterPath="$PROJECT_DIR$/src/com/tests/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" afterDir="false" />
+    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tests/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tests/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,17 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MyStackTest" />
@@ -203,7 +192,12 @@
       <workItem from="1613169821570" duration="52000" />
       <workItem from="1613169888935" duration="28000" />
       <workItem from="1613169928619" duration="5000" />
-      <workItem from="1613349846339" duration="3733000" />
+      <workItem from="1613349846339" duration="4440000" />
+      <workItem from="1613428395275" duration="396000" />
+      <workItem from="1613428960684" duration="165000" />
+      <workItem from="1613441981248" duration="35000" />
+      <workItem from="1613442025114" duration="1139000" />
+      <workItem from="1613457610068" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Update Test">
       <created>1611320376469</created>
@@ -352,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613169858626</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Update 02/15">
+      <created>1613373714193</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1613373714193</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,7 +390,8 @@
     <MESSAGE value="Update 01/31" />
     <MESSAGE value="Update 02/03" />
     <MESSAGE value="Update 02/13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 02/13" />
+    <MESSAGE value="Update 02/15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 02/15" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
