@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tests/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tests/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/osb/Tools/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/osb/Tools/MyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <recent name="$PROJECT_DIR$/jar" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyStackTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="15" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -95,22 +95,7 @@
       <module name="Main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.Test" />
-      <module name="Main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.osb.Tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +112,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MyStackTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyStackTest" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyStackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +186,10 @@
       <workItem from="1613441981248" duration="35000" />
       <workItem from="1613442025114" duration="1139000" />
       <workItem from="1613457610068" duration="24000" />
+      <workItem from="1613457649093" duration="544000" />
+      <workItem from="1613534318317" duration="1818000" />
+      <workItem from="1613536316046" duration="743000" />
+      <workItem from="1613537853498" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="Update Test">
       <created>1611320376469</created>
@@ -353,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613373714193</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update 02/16">
+      <created>1613457787336</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1613457787336</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +390,8 @@
     <MESSAGE value="Update 02/03" />
     <MESSAGE value="Update 02/13" />
     <MESSAGE value="Update 02/15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 02/15" />
+    <MESSAGE value="Update 02/16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 02/16" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
