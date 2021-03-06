@@ -12,14 +12,15 @@ public class MyStackTest {
         joe.push("Patel");
         joe.push("YiTong");
         joe.push("Osama");
-        joe.push("Nancy");
+        joe.push("JOE");
         joe.push("Kevin");
-        joe.push("osball");
+        joe.push("Osball");
         joe.push("YiTong");
         joe.push("YiTong");
         joe.push("YiTong");
         joe.push("YiTong");
 
+        /*
         joe.pop();
         joe.pop();
         joe.pop();
@@ -31,10 +32,11 @@ public class MyStackTest {
         joe.pop();
         joe.pop();
         joe.pop();
+         */
 
         System.out.println("=======================================");
 
-        System.out.println(joe.hashCode());
+        System.out.println(joe);
     }
 
 }

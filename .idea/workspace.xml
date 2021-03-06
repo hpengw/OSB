@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/15">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/osb/Tools/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/osb/Tools/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tests/MyStackTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="35b2685a-abce-4719-9e96-5d4a444cd0a7" name="Default Changelist" comment="Update 02/17" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,7 +68,7 @@
       <recent name="$PROJECT_DIR$/jar" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MyStackTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="15" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -118,8 +114,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyStackTest" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -190,6 +186,15 @@
       <workItem from="1613534318317" duration="1818000" />
       <workItem from="1613536316046" duration="743000" />
       <workItem from="1613537853498" duration="32000" />
+      <workItem from="1613541765208" duration="125000" />
+      <workItem from="1613618214691" duration="157000" />
+      <workItem from="1614123017415" duration="15000" />
+      <workItem from="1614123046819" duration="43000" />
+      <workItem from="1614123100664" duration="20000" />
+      <workItem from="1614123131673" duration="63000" />
+      <workItem from="1614124225068" duration="81000" />
+      <workItem from="1614654432970" duration="31000" />
+      <workItem from="1615072973271" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="Update Test">
       <created>1611320376469</created>
@@ -352,7 +357,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613457787336</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update 02/17">
+      <created>1613541813615</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613541813615</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update 02/17">
+      <created>1613541859202</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613541859202</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +410,8 @@
     <MESSAGE value="Update 02/13" />
     <MESSAGE value="Update 02/15" />
     <MESSAGE value="Update 02/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 02/16" />
+    <MESSAGE value="Update 02/17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 02/17" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
