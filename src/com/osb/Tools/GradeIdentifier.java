@@ -7,7 +7,8 @@ import java.util.Scanner;
 /**
  * A programme that identifies math marks and output the score out of 100 and final grade.
  *
- * @version 1.3
+ * @version 1.4
+ * Updated for Year 9 Term 1
  */
 public class GradeIdentifier {
 
@@ -24,16 +25,16 @@ public class GradeIdentifier {
         if (s45 < 0 || s45 > 45) { //Identify data range (Legal/Illegal)
             Main.println("//Error: Please enter a number range from 0 - 45.");
             Main.rerun();
-        } else if (s100 >= 90) {
-            Main.println("//Your score out of 100 is " + s100 + '.');
-            Main.println("//Grade: A");
         } else if (s100 >= 80) {
             Main.println("//Your score out of 100 is " + s100 + '.');
-            Main.println("//Grade: B");
+            Main.println("//Grade: A");
         } else if (s100 >= 70) {
             Main.println("//Your score out of 100 is " + s100 + '.');
-            Main.println("//Grade: C");
+            Main.println("//Grade: B");
         } else if (s100 >= 60) {
+            Main.println("//Your score out of 100 is " + s100 + '.');
+            Main.println("//Grade: C");
+        } else if (s100 >= 50) {
             Main.println("//Your score out of 100 is " + s100 + '.');
             Main.println("//Grade: D");
         } else {
