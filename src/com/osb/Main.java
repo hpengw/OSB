@@ -17,7 +17,11 @@ import java.util.Scanner;
  * Pre-Release
  * @version 0.3
  *
+ * 2021/06/17
+ * TODO Revise | Code | for JoeInfo
+ *
  */
+
 public class Main {
 
     public static void main(String[] args) {

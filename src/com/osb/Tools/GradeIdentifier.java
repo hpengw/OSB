@@ -7,8 +7,8 @@ import java.util.Scanner;
 /**
  * A programme that identifies math marks and output the score out of 100 and final grade.
  *
- * @version 1.4
- * Updated for Year 9 Term 1
+ * @version 1.5
+ * Updated for Year 9 Term 2
  */
 public class GradeIdentifier {
 
